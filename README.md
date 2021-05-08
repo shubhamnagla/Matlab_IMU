@@ -10,21 +10,21 @@ https://youtu.be/EFcpT_YgQcY
 
 > Arduino Uno
 
-<img src="./images/IMG_3820.JPG" />
+<img src="./Images/IMG_3820.JPG" />
 
 > IMU Sensor
 
-<img src="./images/IMG_3819.JPG" />
+<img src="./Images/IMG_3819.JPG" />
 
 ## Output 
 
 > Graphical Data Output 
 
-<img src="./images/Graph.png" />
+<img src="./Images/Graph.png" />
 
 > Orientation Visualization
 
-<img src="./images/OV.png" />
+<img src="./Images/OV.png" />
 
 
 I dont take all the credit of the code. I took some help from the internet to create the whole code.
